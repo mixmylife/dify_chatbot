@@ -1,0 +1,29 @@
+{
+  // "name": "Dify",
+  // "short_name": "Dify",
+  // "description": "Build Production Ready Agentic AI Solutions",
+  "name": "Meditech AI ChatBot",
+  "short_name": "Meditech AI",
+  "description": "Hệ thống y tế Medic - Meditech AI ChatBot",
+  "icons": [
+    {
+      "src": "/faviconn.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#1C64F2",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "categories": [
+    "productivity",
+    "utilities",
+    "developer"
+  ],
+  "lang": "en-US",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}

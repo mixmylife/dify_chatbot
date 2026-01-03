@@ -1038,7 +1038,7 @@ wheels = [
 
 [[package]]
 name = "clickzetta-connector-python"
-version = "0.8.106"
+version = "0.8.109"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "future" },
@@ -1052,7 +1052,7 @@ dependencies = [
     { name = "urllib3" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/23/38/749c708619f402d4d582dfa73fbeb64ade77b1f250a93bd064d2a1aa3776/clickzetta_connector_python-0.8.106-py3-none-any.whl", hash = "sha256:120d6700051d97609dbd6655c002ab3bc260b7c8e67d39dfc7191e749563f7b4", size = 78121, upload-time = "2025-10-29T02:38:15.014Z" },
+    { url = "https://files.pythonhosted.org/packages/d2/3a/74e13d78518e27ed479d507d24e1bc9b36d35545b008a22d855abf9bd108/clickzetta_connector_python-0.8.109-py3-none-any.whl", hash = "sha256:204e3144bb33eb93b085a247d44fd11a8b91f9f72d4a853d8ad4e31cf11ab17f", size = 78333, upload-time = "2025-12-24T13:46:09.62Z" },
 ]
 
 [[package]]
